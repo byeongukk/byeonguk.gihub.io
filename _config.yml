@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "uk's blog"
 description              : "An amazing website."
 url                      : "https://byeongukk.github.io"
 baseurl                  : ""
