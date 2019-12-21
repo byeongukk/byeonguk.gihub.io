@@ -20,7 +20,7 @@ title                    : "uk's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "uk's blog"
-description              : "An amazing website."
+description              : "정리 블로그"
 url                      : "https://byeongukk.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
